@@ -3,3 +3,5 @@ inject_chaos.sh
 setup_missions.sh
 game/
 game_engine.sh
+deploy_event.sh
+event/
